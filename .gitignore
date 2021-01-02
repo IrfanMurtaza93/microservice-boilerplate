@@ -1,0 +1,6 @@
+db_data
+node_modules
+
+# Temporary env files
+npm-debug.log
+yarn-error.log
